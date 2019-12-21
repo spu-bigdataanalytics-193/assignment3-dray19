@@ -1,4 +1,4 @@
-# :Assignment 3:
+# Assignment 3
 
 The goal of assignment 3 was to use the map reduce algorithm to count the number of flights by each carrier. The data set used had 120 million records starting in October 1987 and ending in April 2008. 
 
